@@ -1,1 +1,4 @@
-This repository contains Python code for solving moving boundary problem using random walk method (RWM) and finite element method (FEM).  
+This repository contains Python code for solving moving boundary problems using random walk method (RWM) and finite element method (FEM). It was used in Paper IV, PEM. 
+'RWM_Scetion41.ipynb' is for the non-homogeneous Dirichlet boundary condition at the left boundary and robin boundary at the right boundary (non-dimensional form). It was used to produce the figures in Section 4.1
+'RWM_Scetion42.ipynb' is for the left boundary's robin (Inflow) boundary condition at both left and right boundaries (non-dimensional form). It was used to produce the figures in Section 4.2.
+'RWM_Scetion43.ipynb' is for the left boundary's robin (Inflow) boundary condition at both left and right boundaries (dimensional form and comparison with lab experimental data).  It was used to produce the figures in Section 4.3
